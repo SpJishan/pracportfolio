@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
+            HTML, CSS, SCSS, Nested CSS, Javascript, React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +39,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Figma
+            Adobe Photoshop, Illustrator, After Effect, premiare pro, Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
